@@ -10,14 +10,15 @@ Founder of TheTermux Academy and F Society .
 
 Special Thanks To Dileepa Rukshan
 
-
+         #Set Environment
     
 pkg upgrade && update  
+________________________________________________
 pkg install git 
 ________________________________________________
 
 
-
+          #Clone into 3aNNer
 
      git clone https://github.com/KiLL3R-xRO/3aNNer
 ________________________________________________
