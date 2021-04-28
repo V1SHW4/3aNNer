@@ -11,6 +11,17 @@ Founder of TheTermux Academy and F Society .
 Special Thanks To Dileepa Rukshan
 
 
-To Clone, Type The following commands
+    Pre-install packages as follows   
+_______________________________________________
+#pkg upgrade && update  
+#pkg install git 
+
+
+
+     Clone into 3aNNer   
+________________________________________________
+#git clone https://github.com/KiLL3R-xRO/3aNNer   
+
+  #Customize on your choice
 
 
