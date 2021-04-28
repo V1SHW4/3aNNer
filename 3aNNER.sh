@@ -60,9 +60,9 @@ echo
 
 echo -e "     ◻ tool create by,                                       "
 
-echo -e "             Dileepa Rukshan....         "
+echo -e "             Kill3R xRO....         "
 
-echo -e "                   admin of termux acedemy         "
+echo -e "                   Founder of termux acedemy         "
 
 echo -e "                     ◾   powerd by,          "
 
