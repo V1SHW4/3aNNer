@@ -14,7 +14,7 @@ Special Thanks To Dileepa Rukshan
     
 
 
-          #Clone into 3aNNer
+          Clone into 3aNNer
 ________________________________________________
 
      git clone https://github.com/KiLL3R-xRO/3aNNer
